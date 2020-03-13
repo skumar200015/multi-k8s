@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a73ccb5-516a-4c5e-a78e-383f14990b19" name="Default Changelist" comment="" />
+    <list default="true" id="9a73ccb5-516a-4c5e-a78e-383f14990b19" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.travis.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-account.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +48,7 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -67,6 +71,7 @@
       <recent name="$PROJECT_DIR$/k8s" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/server" />
     </key>
   </component>
@@ -127,7 +132,7 @@
       <workItem from="1583151177519" duration="4444000" />
       <workItem from="1583496593205" duration="4304000" />
       <workItem from="1584017730215" duration="962000" />
-      <workItem from="1584020046910" duration="13181000" />
+      <workItem from="1584020046910" duration="16175000" />
     </task>
     <task id="LOCAL-00001" summary="updates">
       <created>1584017932445</created>
@@ -136,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584017932445</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="updates">
+      <created>1584125721002</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584125721002</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,17 +165,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="updates" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="386" y="152" key="CommitChangelistDialog2" timestamp="1584017932296">
+    <state x="386" y="152" key="CommitChangelistDialog2" timestamp="1584125720882">
       <screen x="0" y="23" width="1792" height="1050" />
     </state>
-    <state x="386" y="152" key="CommitChangelistDialog2/0.23.1792.1050@0.23.1792.1050" timestamp="1584017932296" />
+    <state x="386" y="152" key="CommitChangelistDialog2/0.23.1792.1050@0.23.1792.1050" timestamp="1584125720882" />
     <state x="397" y="187" key="SettingsEditor" timestamp="1584120025835">
       <screen x="0" y="23" width="1792" height="1050" />
     </state>
     <state x="397" y="187" key="SettingsEditor/0.23.1792.1050@0.23.1792.1050" timestamp="1584120025835" />
-    <state x="496" y="289" key="Vcs.Push.Dialog.v2" timestamp="1584017934901">
+    <state x="496" y="289" key="Vcs.Push.Dialog.v2" timestamp="1584125726299">
       <screen x="0" y="23" width="1792" height="1050" />
     </state>
-    <state x="496" y="289" key="Vcs.Push.Dialog.v2/0.23.1792.1050@0.23.1792.1050" timestamp="1584017934901" />
+    <state x="496" y="289" key="Vcs.Push.Dialog.v2/0.23.1792.1050@0.23.1792.1050" timestamp="1584125726299" />
   </component>
 </project>
