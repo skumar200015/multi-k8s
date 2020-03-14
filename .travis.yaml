@@ -15,10 +15,10 @@ before_install:
   - gcloud config set compute/zone us-central1-c
   - gcloud container clusters get-credentials multi-cluster
   - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin
-  - docker build -t skumardocker2019/react-test -f ./client/Dockerfile.dev ./client
+  - docker build -t skumar200015/react-test -f ./client/Dockerfile.dev ./client
 
 script:
-  - docker run -e CI=true skumardocker2019/react-test npm test -- --coverage
+  - docker run -e CI=true skumar200015/react-test npm test -- --coverage
 
 deploy:
   provider: script
