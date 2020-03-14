@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a73ccb5-516a-4c5e-a78e-383f14990b19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.travis.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-account.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +132,7 @@
       <workItem from="1583151177519" duration="4444000" />
       <workItem from="1583496593205" duration="4304000" />
       <workItem from="1584017730215" duration="962000" />
-      <workItem from="1584020046910" duration="16175000" />
+      <workItem from="1584020046910" duration="20108000" />
     </task>
     <task id="LOCAL-00001" summary="updates">
       <created>1584017932445</created>
